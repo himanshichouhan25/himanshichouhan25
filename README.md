@@ -1,25 +1,26 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=950&lines=Hey%2C+I'm+Himanshi+Chouhan+%F0%9F%91%8B;Agentic+AI+Intern+%7C+AI+Engineer;Building+Multi-Agent+AI+Systems;Python+%E2%80%A2+CrewAI+%E2%80%A2+FastAPI+%E2%80%A2+LangChain;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=950&lines=Hey%2C+I'm+Himanshi+Chouhan+%F0%9F%91%8B;AI+Engineer+%7C+Agentic+AI+Builder;Building+Multi-Agent+AI+Systems;Python+%E2%80%A2+CrewAI+%E2%80%A2+FastAPI+%E2%80%A2+LangChain;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </p>
 
-# 👩‍💻 About Me
-
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="400">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="400">
 </p>
 
-```text
-I'm **Himanshi Chouhan**, a B.Tech CS/AI student at Arya College of Engineering, currently
-interning in Agentic AI. I'm passionate about building intelligent software that combines
-robust backend engineering with modern Artificial Intelligence.
+# 👩‍💻 About Me
 
-I enjoy designing scalable backend systems, autonomous AI agents, and real-world AI products —
-using CrewAI, LangChain, FastAPI, and Python — that solve meaningful problems end-to-end,
-not just chatbot demos.
+```text
+I'm **Himanshi Chouhan**, a B.Tech CS (AI) student at Arya College of Engineering. I recently
+completed my Agentic AI internship, where I built production-style multi-agent AI systems end-to-end
+— from backend orchestration to deployed frontends.
+
+I'm passionate about building intelligent software that combines robust backend engineering with
+modern Artificial Intelligence — designing scalable backend systems, autonomous AI agents, and
+real-world AI products using CrewAI, LangChain, LangGraph, FastAPI, and Python that solve
+meaningful problems end-to-end, not just chatbot demos.
 
 ### 🚀 Interests
 
@@ -42,12 +43,13 @@ not just chatbot demos.
 <p align="left"><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" /></p>
 
 ## 🗄️ Database
-<p align="left"><img src="https://skillicons.dev/icons?i=sqlite,mysql" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,redis" /></p>
 
 ## 🤖 Artificial Intelligence & Agentic AI
 <p align="left">
 <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-4ECDC4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-1ABC9C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Groq-9B59B6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gemini-F39C12?style=for-the-badge&logo=google"/>
 <img src="https://img.shields.io/badge/RAG-3498DB?style=for-the-badge"/>
@@ -59,18 +61,36 @@ not just chatbot demos.
 <p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,powershell" /></p>
 
 # 🚀 Projects Portfolio
-```text
-| Project                                                                        | Category         | Status      | Technologies                                          |
-|-----------------------------------------------------------------------------------|------------------|:-----------:|----------------------------------------------------------|
-| ✈️ [AI-Travel-Planner](https://github.com/himanshichouhan25/AI-Travel-Planner)         | Agentic AI       | 🟢 Active   | CrewAI, Groq, FastAPI, SQLAlchemy, React, Tailwind, JWT |
-| 🔍 [CodeAudit](https://github.com/himanshichouhan25/CodeAudit)                         | AI Code Review   | 🟡 Early build | Python, FastAPI, Streamlit, CrewAI, Groq, SQLite       |
-| ⚙️ [machine-management-system](https://github.com/himanshichouhan25/machine-management-system) | Web App | ✅ Completed| Flask, SQLite                                            |
-| 🧮 [smart-token-optimizer](https://github.com/himanshichouhan25/smart-token-optimizer) | AI Tooling       | 🟢 Active   | Python, Gemini API                                       |
-| 📚 [study-buddy-agent](https://github.com/himanshichouhan25/study-buddy-agent)         | AI Agents        | 🟢 Active   | FastAPI, Gemini 2.0 Flash, React, Tailwind               |
-```
-> Note: CodeAudit shows only 2 commits on GitHub abhi, so status badge is set to "Early build" instead of "Completed" — update this once poora backend + review flow push ho jaaye.
+
+| Project | Category | Status | Technologies |
+|---|---|:---:|---|
+| 🌍 [EvoWorld](https://github.com/himanshichouhan25) | Agentic AI — 3D Simulation | 🔵 Current Focus | Unity, FastAPI, LangGraph, PostgreSQL, Redis, Vector DB, WebSocket |
+| ✈️ [AI-Travel-Planner](https://github.com/himanshichouhan25/AI-Travel-Planner) | Agentic AI | 🟢 Active | CrewAI, Groq, FastAPI, SQLAlchemy, React, Tailwind, JWT |
+| 🔍 [CodeAudit](https://github.com/himanshichouhan25/CodeAudit) | AI Code Review | 🟡 In Development | Python, FastAPI, Streamlit, CrewAI, Groq, SQLite |
+| ⚙️ [machine-management-system](https://github.com/himanshichouhan25/machine-management-system) | Web App | ✅ Completed | Flask, SQLite |
+| 🧮 [smart-token-optimizer](https://github.com/himanshichouhan25/smart-token-optimizer) | AI Tooling | 🟢 Active | Python, Gemini API |
+| 📚 [study-buddy-agent](https://github.com/himanshichouhan25/study-buddy-agent) | AI Agents | 🟢 Active | FastAPI, Gemini 2.0 Flash, React, Tailwind |
+
+> Note: CodeAudit's core backend and multi-agent pipeline are functional; test suite, sample assets, and live deployment are still in progress.
 
 # 🌟 Featured Projects
+
+## 🌍 EvoWorld *(Current Focus)*
+> **An AI-powered 3D virtual village where autonomous AI agents — farmers, merchants, guards — live using their own goals, memory, and planning. Built to demonstrate core Agentic AI concepts (perceive-plan-execute, multi-agent communication, reflection) inside a small virtual society.**
+
+### 🚀 Features
+- 🧠 Autonomous NPCs with individual goals, memory, and planning
+- 🔁 LangGraph-driven agent workflows with planning and re-planning
+- 🧩 Vector database for long-term NPC memory (RAG-based recall)
+- ⚡ Redis for fast, temporary state and event queues
+- 🌐 Real-time Unity ↔ Python communication over WebSocket
+- 🗄️ PostgreSQL for persistent world-state, relationships, and inventory
+
+### 🛠 Tech Stack
+`Unity` `Python` `FastAPI` `LangGraph` `PostgreSQL` `Redis` `Vector DB` `WebSocket`
+
+### 📌 Current Progress
+Core backend logic (NPC, Farmer, Merchant classes) is being built in Python — this forms the foundation that will later be served via FastAPI and connected to Unity through WebSocket.
 
 ## ✈️ AI Travel Planner
 > **A full-stack agentic AI app that turns a trip idea into a complete, personalized itinerary using a 3-agent CrewAI pipeline.**
@@ -88,6 +108,7 @@ not just chatbot demos.
 
 ## 🔍 CodeAudit
 > **An AI-powered multi-agent platform that reviews code automatically — quality, bugs, performance, and security checked by four specialized agents.**
+> *(Core pipeline functional; test suite, assets, and deployment in progress before full release.)*
 
 ### 🚀 Features
 - 🤖 Multi-Agent Code Review (CrewAI): Quality, Bug, Performance, Security agents
@@ -111,33 +132,33 @@ not just chatbot demos.
 `React` `Vite` `Tailwind CSS` `FastAPI` `Google Gemini 2.0 Flash` `Pydantic v2`
 
 # 🏆 Certifications
-```text
-| 🎓 Organization                    | 📜 Certification                                          | Status |
-|-------------------------------------|-------------------------------------------------------------|:------:|
-| Arya College of Engineering          | Co-ordination Certificate – HACK NEXUS Hackathon (2025)      | ✅ |
-| Arya College of Engineering          | Intl. Conference – Emerging Tech & Smart Engineering (2026)  | ✅ |
-| IBM SkillsBuild                      | Getting Started with Generative AI                           | ✅ |
-| Infosys Springboard                  | Introduction to Artificial Intelligence                      | ✅ |
-| Infosys Springboard                  | Introduction to Deep Learning                                 | ✅ |
-| Infosys Springboard                  | Introduction to Data Science                                  | ✅ |
-| Infosys Springboard                  | Introduction to Natural Language Processing                   | ✅ |
-| AI For Techies                       | Python Using AI Workshop                                       | ✅ |
-| Tata (via Forage)                    | Data Visualisation: Empowering Business with Effective Insights| ✅ |
-| EduPyramids / IIT Bombay             | Advanced C++ Training (Score: 85%)                             | ✅ |
-| NPTEL (IIT Roorkee)                  | Fundamentals of Object Oriented Programming (Elite, 69%)       | ✅ |
-```
+
+| 🎓 Organization | 📜 Certification | Status |
+|---|---|:---:|
+| Arya College of Engineering | Co-ordination Certificate – HACK NEXUS Hackathon (2025) | ✅ |
+| Arya College of Engineering | Intl. Conference – Emerging Tech & Smart Engineering (2026) | ✅ |
+| IBM SkillsBuild | Getting Started with Generative AI | ✅ |
+| Infosys Springboard | Introduction to Artificial Intelligence | ✅ |
+| Infosys Springboard | Introduction to Deep Learning | ✅ |
+| Infosys Springboard | Introduction to Data Science | ✅ |
+| Infosys Springboard | Introduction to Natural Language Processing | ✅ |
+| AI For Techies | Python Using AI Workshop | ✅ |
+| Tata (via Forage) | Data Visualisation: Empowering Business with Effective Insights | ✅ |
+| EduPyramids / IIT Bombay | Advanced C++ Training (Score: 85%) | ✅ |
+| NPTEL (IIT Roorkee) | Fundamentals of Object Oriented Programming (Elite, 69%) | ✅ |
 
 # 🎯 2026 Goals
-```text
-- 🚀 Close the gap between CodeAudit's README and its actual repo — push tests/, assets/,
-  LICENSE, and fill real contact links, then deploy it live
-- ✈️ Finish AI Travel Planner's 3-agent flow end-to-end and deploy a working demo link
-- 🤖 Go deep on LangGraph shared-state concepts (ResearchState) — explain it without docs open
-- ☁️ Learn cloud deployment for AI apps (Render/Railway/Vercel for FastAPI + React)
-- 🌍 Contribute to one open-source repo (even a small PR counts)
-- 💼 Land an Agentic AI / Backend Engineering internship
-- 🏆 Finish ONE project fully — from idea to a live, working, deployed link — before starting a new one
-```
+
+| Goal | Focus Area |
+|---|---|
+| 🌍 Build EvoWorld's core agent logic (Farmer, Merchant, NPC classes) and connect it to FastAPI + Unity via WebSocket | EvoWorld |
+| 🚀 Close the gap between CodeAudit's README and its actual repo — push tests/, assets/, and deploy it live | CodeAudit |
+| ✈️ Finish AI Travel Planner's 3-agent flow end-to-end and deploy a working demo link | AI Travel Planner |
+| 🤖 Go deep on LangGraph shared-state concepts (ResearchState) — explain it without docs open | Learning |
+| ☁️ Learn cloud deployment for AI apps (Render/Railway/Vercel for FastAPI + React) | Learning |
+| 🌍 Contribute to one open-source repo (even a small PR counts) | Open Source |
+| 💼 Land a full-time Agentic AI / Backend Engineering role | Career |
+| 🏆 Finish ONE project fully — from idea to a live, working, deployed link — before starting a new one | Discipline |
 
 # 🔥 GitHub Streak
 <p align="center">
@@ -154,7 +175,10 @@ not just chatbot demos.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshichouhan25&theme=radical"/>
 </p>
 
-# 📊 Contribution Statistics
+# 📊 Project Statistics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=himanshichouhan25&theme=radical"/>
+</p>
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshichouhan25&theme=radical"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshichouhan25&theme=radical"/>
@@ -174,6 +198,6 @@ not just chatbot demos.
 # 📬 Let's Connect
 <p align="center">
 <a href="mailto:chouhanhimanshi777@gmail.com"><img src="https://img.shields.io/badge/Email-FFB86C?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/himanshi-chouhan-69180a339/"><img src="https://img.shields.io/badge/LinkedIn-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/himanshi-chouhan-b96a47427/"><img src="https://img.shields.io/badge/LinkedIn-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/himanshichouhan25"><img src="https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
