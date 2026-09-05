@@ -66,12 +66,12 @@ meaningful problems end-to-end, not just chatbot demos.
 |---|---|:---:|---|
 | 🌍 [EvoWorld](https://github.com/himanshichouhan25) | Agentic AI — 3D Simulation | 🔵 Current Focus | Unity, FastAPI, LangGraph, PostgreSQL, Redis, Vector DB, WebSocket |
 | ✈️ [AI-Travel-Planner](https://github.com/himanshichouhan25/AI-Travel-Planner) | Agentic AI | 🟢 Active | CrewAI, Groq, FastAPI, SQLAlchemy, React, Tailwind, JWT |
-| 🔍 [CodeAudit](https://github.com/himanshichouhan25/CodeAudit) | AI Code Review | 🟡 In Development | Python, FastAPI, Streamlit, CrewAI, Groq, SQLite |
+| 🔍 [CodeAudit](https://github.com/himanshichouhan25/CodeAudit) | AI Code Review | 🟢 Active | Python, FastAPI, Streamlit, CrewAI, Groq, SQLite |
 | ⚙️ [machine-management-system](https://github.com/himanshichouhan25/machine-management-system) | Web App | ✅ Completed | Flask, SQLite |
 | 🧮 [smart-token-optimizer](https://github.com/himanshichouhan25/smart-token-optimizer) | AI Tooling | 🟢 Active | Python, Gemini API |
 | 📚 [study-buddy-agent](https://github.com/himanshichouhan25/study-buddy-agent) | AI Agents | 🟢 Active | FastAPI, Gemini 2.0 Flash, React, Tailwind |
 
-> Note: CodeAudit's core backend and multi-agent pipeline are functional; test suite, sample assets, and live deployment are still in progress.
+> Note: CodeAudit is fully functional end-to-end with an accurate README and demo GIF; test suite and live deployment are still in progress.
 
 # 🌟 Featured Projects
 
@@ -108,7 +108,7 @@ Core backend logic (NPC, Farmer, Merchant classes) is being built in Python — 
 
 ## 🔍 CodeAudit
 > **An AI-powered multi-agent platform that reviews code automatically — quality, bugs, performance, and security checked by four specialized agents.**
-> *(Core pipeline functional; test suite, assets, and deployment in progress before full release.)*
+> *(Fully functional end-to-end with an accurate README and demo GIF; test suite and live deployment still in progress.)*
 
 ### 🚀 Features
 - 🤖 Multi-Agent Code Review (CrewAI): Quality, Bug, Performance, Security agents
@@ -152,7 +152,7 @@ Core backend logic (NPC, Farmer, Merchant classes) is being built in Python — 
 | Goal | Focus Area |
 |---|---|
 | 🌍 Build EvoWorld's core agent logic (Farmer, Merchant, NPC classes) and connect it to FastAPI + Unity via WebSocket | EvoWorld |
-| 🚀 Close the gap between CodeAudit's README and its actual repo — push tests/, assets/, and deploy it live | CodeAudit |
+| 🚀 Add a test suite to CodeAudit and deploy it live (README + demo GIF already done) | CodeAudit |
 | ✈️ Finish AI Travel Planner's 3-agent flow end-to-end and deploy a working demo link | AI Travel Planner |
 | 🤖 Go deep on LangGraph shared-state concepts (ResearchState) — explain it without docs open | Learning |
 | ☁️ Learn cloud deployment for AI apps (Render/Railway/Vercel for FastAPI + React) | Learning |
