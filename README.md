@@ -64,7 +64,6 @@ meaningful problems end-to-end, not just chatbot demos.
 
 | Project | Category | Status | Technologies |
 |---|---|:---:|---|
-| 🌍 [EvoWorld](https://github.com/himanshichouhan25) | Agentic AI — 3D Simulation | 🔵 Current Focus | Unity, FastAPI, LangGraph, PostgreSQL, Redis, Vector DB, WebSocket |
 | ✈️ [AI-Travel-Planner](https://github.com/himanshichouhan25/AI-Travel-Planner) | Agentic AI | 🟢 Active | CrewAI, Groq, FastAPI, SQLAlchemy, React, Tailwind, JWT |
 | 🔍 [CodeAudit](https://github.com/himanshichouhan25/CodeAudit) | AI Code Review | 🟢 Active | Python, FastAPI, Streamlit, CrewAI, Groq, SQLite |
 | ⚙️ [machine-management-system](https://github.com/himanshichouhan25/machine-management-system) | Web App | ✅ Completed | Flask, SQLite |
@@ -74,23 +73,6 @@ meaningful problems end-to-end, not just chatbot demos.
 > Note: CodeAudit is fully functional end-to-end with an accurate README and demo GIF; test suite and live deployment are still in progress.
 
 # 🌟 Featured Projects
-
-## 🌍 EvoWorld *(Current Focus)*
-> **An AI-powered 3D virtual village where autonomous AI agents — farmers, merchants, guards — live using their own goals, memory, and planning. Built to demonstrate core Agentic AI concepts (perceive-plan-execute, multi-agent communication, reflection) inside a small virtual society.**
-
-### 🚀 Features
-- 🧠 Autonomous NPCs with individual goals, memory, and planning
-- 🔁 LangGraph-driven agent workflows with planning and re-planning
-- 🧩 Vector database for long-term NPC memory (RAG-based recall)
-- ⚡ Redis for fast, temporary state and event queues
-- 🌐 Real-time Unity ↔ Python communication over WebSocket
-- 🗄️ PostgreSQL for persistent world-state, relationships, and inventory
-
-### 🛠 Tech Stack
-`Unity` `Python` `FastAPI` `LangGraph` `PostgreSQL` `Redis` `Vector DB` `WebSocket`
-
-### 📌 Current Progress
-Core backend logic (NPC, Farmer, Merchant classes) is being built in Python — this forms the foundation that will later be served via FastAPI and connected to Unity through WebSocket.
 
 ## ✈️ AI Travel Planner
 > **A full-stack agentic AI app that turns a trip idea into a complete, personalized itinerary using a 3-agent CrewAI pipeline.**
@@ -151,7 +133,6 @@ Core backend logic (NPC, Farmer, Merchant classes) is being built in Python — 
 
 | Goal | Focus Area |
 |---|---|
-| 🌍 Build EvoWorld's core agent logic (Farmer, Merchant, NPC classes) and connect it to FastAPI + Unity via WebSocket | EvoWorld |
 | 🚀 Add a test suite to CodeAudit and deploy it live (README + demo GIF already done) | CodeAudit |
 | ✈️ Finish AI Travel Planner's 3-agent flow end-to-end and deploy a working demo link | AI Travel Planner |
 | 🤖 Go deep on LangGraph shared-state concepts (ResearchState) — explain it without docs open | Learning |
